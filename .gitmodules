@@ -1,0 +1,3 @@
+[submodule "AndroidApp"]
+	path = AndroidApp
+	url = https://abnvanand@github.com/abnvanand/Washiteria
